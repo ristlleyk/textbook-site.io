@@ -82,4 +82,4 @@ document.getElementById('prev').addEventListener('click', onPrevPage);
 document.getElementById('next').addEventListener('click', onNextPage);
 
 // Загрузка PDF при запуске
-loadPDF('/files/himiya.pdf');
+loadPDF('himiya.pdf');
